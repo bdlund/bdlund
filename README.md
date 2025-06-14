@@ -36,7 +36,7 @@ My work investigates the ethical, practical, and policy-related implications of 
 
 ## 📝 New Publications
 
-- - Lund, B.D., Lee, T.H., Mannuru, N.R., & Arutla, N. (2025). AI and academic integrity: Exploring student perceptions and implications for higher education. *Journal of Academic Ethics*. [https://doi.org/10.1007/s10805-025-09613-3]  
+- Lund, B.D., Lee, T.H., Mannuru, N.R., & Arutla, N. (2025). AI and academic integrity: Exploring student perceptions and implications for higher education. *Journal of Academic Ethics*. [https://doi.org/10.1007/s10805-025-09613-3]  
 - Lund, B.D., Orhan, Z., Mannuru, N.R., Bevara, N.V.K., Porter, B., Vinaih, M.K., & Bhaskara, P. (2025). Standards, frameworks, and legislation for artificial intelligence (AI) transparency. *AI and Ethics*. [https://doi.org/10.1007/s43681-025-00661-4]  
 - Saeidnia, H.R., Hossine, E., Lund, B.D., Alipor, M., Zaker, S., & Molaei, S. (2025). Artificial intelligence in the battle against disinformation and misinformation: A systematic review of challenges and approaches. *Knowledge and Information Systems*, 67, 3139–3158. [https://doi.org/10.1007/s10115-024-02337-7]  
 - Shubha, T., Vaidya, P., Lund, B.D., & Ali, P.M.N. (2025). Integration of AI‑based applications in education: How students feel about the ChatGPT‑era. *Global Knowledge, Memory and Communication*. [https://doi.org/10.1108/GKMC-04-2024-0227]  

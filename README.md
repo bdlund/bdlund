@@ -44,7 +44,8 @@ My work investigates the ethical, practical, and policy-related implications of 
 - Lund, B.D., Agbaji, D., & Mannuru, N.R. (2024). Perceptions of the Fourth Industrial Revolution and AI’s impact on society. *Perspectives on Global Development and Technology*, 23, 385–406. [https://doi.org/10.1163/15691497-12341691]  
 
 📚 See full list on [Google Scholar](https://scholar.google.com/citations?user=IGZZD-UAAAAJ).
-Or check out all my publications on my Wiki: https://github.com/bdlund/bdlund.wiki. 
+Or check out all my publications on my Wiki: [https://github.com/bdlund/bdlund/wiki](https://github.com/bdlund/bdlund/wiki
+). 
 
 ---
 

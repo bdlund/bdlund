@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brady D. Lund
+# Hello, I'm Brady D. Lund!
 
 I'm an Assistant Professor of Information Science at the **University of North Texas**, researching how **emerging technologies**, particularly **artificial intelligence**, are transforming **scholarly communication**, **academic libraries**, and global access to knowledge.
 

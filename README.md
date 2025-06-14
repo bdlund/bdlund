@@ -2,7 +2,7 @@
 
 I'm an Assistant Professor of Information Science at the **University of North Texas**, researching how **emerging technologies**, particularly **artificial intelligence**, are transforming **scholarly communication**, **academic libraries**, and global access to knowledge.
 
-My work investigates the ethical, practical, and policy-related implications of technologies such as **ChatGPT**, **GPT-4o**, **VR**, and **AI-assisted publishing**, with an emphasis on their impact across higher education and developing countries.
+My work investigates the ethical, practical, and policy-related implications of technologies such as **ChatGPT**, **artificial intelligence**, and **quantum computing**, with an emphasis on their impact across higher education and developing countries.
 
 ---
 
@@ -16,8 +16,8 @@ My work investigates the ethical, practical, and policy-related implications of 
   Chatbots, virtual reality, learning analytics, and student engagement tools  
 - 📚 **Academic Libraries & Information Science**  
   Technology adoption, privacy and literacy, internationalization of library services  
-- 🌍 **Global Development & Equity in Tech**  
-  Tech accessibility, the digital divide, and inclusive design in the Global South
+- 🌍 **Global Development in Tech**  
+  Tech accessibility, the digital divide, and improved design in the Global South
 
 ---
 

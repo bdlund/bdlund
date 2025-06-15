@@ -51,7 +51,7 @@ Or check out all my publications on my Wiki: https://github.com/bdlund/bdlund/wi
 ## 🔗 Connect With Me
 
 - 🌐 Website: [bdlund.github.io](https://bdlund.github.io)
-- 🏛️ Faculty Page: [University of North Texas](https://www.unt.edu)  
+- 🏛️ Faculty Page: [Brady D. Lund](https://facultyinfo.unt.edu/faculty-profile?query=Brady+Lund&type=name&profile=bdl0095)  
 
 ---
 
